@@ -4,5 +4,5 @@ This simple [game](https://en.wikipedia.org/wiki/Rock_paper_scissors) is done us
 
 # Instructions
 
-Double-click the index.html to open the game on your browser
+Double-click the index.html to open the game on your browser.
 
