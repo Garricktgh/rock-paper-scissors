@@ -82,7 +82,7 @@ const checkWin = (choiceOne, choiceTwo) => {
   }
   if (choiceOne === choiceTwo) {
       displayTwo.innerHTML = "It is a tie!";
-    } else {
+  } else {
     if (choices[choiceOne].wins.toLowerCase() === choiceTwo.toLowerCase()) {
       displayTwo.innerHTML = `${choices[choiceOne].name} wins!`;
     } else {
