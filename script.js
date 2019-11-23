@@ -47,7 +47,7 @@ const playerVsCom = () => {
 const playerOptions = () => {
   let playerOptions = document.createElement('div');
   playerOptions.setAttribute('id', 'playerOptions')
-  for ( let i = 0, len = moveOptions.length; i < len; i++ ) {
+  for (let i = 0, len = moveOptions.length; i < len; i++) {
     let playerMove = document.createElement('button');
     playerMove.innerHTML = moveOptions[i];
     playerMove.addEventListener('click', playerPick)
