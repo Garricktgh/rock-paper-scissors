@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(64, 133, 222);
+  color: white;
+  text-align: center;
+}
+
+div {
+  font-size: 32px;
+  padding: 10px;
+}
+
+button{
+  background-color: rgb(244, 156, 32);
+  border-radius: 5px;
+  font-size: 15px;
+  margin: 10px;
+  padding: 5px;
+}
+
