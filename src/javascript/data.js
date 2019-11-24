@@ -1,13 +1,13 @@
 //data for game
 const choices = {
   moveOptions: ["Rock", "Paper", "Scissors"],
-  rock: { 
+  Rock: { 
     wins: "Scissors" 
   },
-  paper: { 
+  Paper: { 
     wins: "Rock" 
   },
-  scissors: { 
+  Scissors: { 
     wins: "Paper" 
   }
 }
