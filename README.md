@@ -8,4 +8,4 @@ Double-click index.html after downloading the file to open the game on your brow
 
 # Extensibility
 
-This code can be easily refactored to cater a more complicated [version](https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock) of the game.
+This code can be easily refactored to cater for a more complicated [version](https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock) of the game.
